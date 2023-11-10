@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/zayndev" target="blank"><img src="https://img.shields.io/twitter/follow/zayndev?logo=twitter&style=for-the-badge" alt="zayndev" /></a> </p>
 
-- 🔭 I’m currently working on **Renatal Car in NextJs**
+- 🔭 I’m currently working on ** Trainee in JobIntech **
 
 - 🌱 I’m currently learning **The .NET core Web API / MERN stack**
 
