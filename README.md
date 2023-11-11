@@ -1,4 +1,14 @@
 <link rel="stylesheet" href="style.css"/>
+   <div class="banner-section">
+        <div class="mid-content">
+            <div class="banner-content text-center">
+                <h3>Created to save your time</h3>
+                <h2>Time Planner App</h2>
+                <a class="default-btn" href="#"> <i class="fa fa-android" aria-hidden="true"></i> Google play </a>
+                <a class="default-btn" href="#"> <i class="fa fa-apple" aria-hidden="true"></i> Apple Store </a>
+            </div>
+        </div>
+    </div>
 <h1 align="center">Hi 👋, I'm DKIR ZINE EL ABIDINE (ELMOUBTAKIR)</h1>
 <h3 align="center" style="color:#16A065">A passionate Fullstack developer from Morocco</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zineelabidinedkirdev&label=Profile%20views&color=0e75b6&style=flat" alt="zineelabidinedkirdev" /> </p>
