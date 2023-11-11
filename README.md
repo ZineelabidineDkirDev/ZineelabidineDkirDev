@@ -1,6 +1,109 @@
+<style>
+  /* Resets */
+ hr {
+	 margin-left: 0;
+	 max-width: 40px;
+}
+/* Jumbotron (hero) */
+ .jumbotron {
+	 position: relative;
+	 background: url(https://source.unsplash.com/9Y8vxVQN4o4/1920x1080) no-repeat bottom center / cover;
+}
+ .jumbotron:before {
+	 position: absolute;
+	 content: "";
+	 top: 0;
+	 left: 0;
+	 width: 100%;
+	 height: 100%;
+	 background: rgba(0, 0, 0, 0.5);
+}
+ .jumbotron .container {
+	 padding: 75px 0;
+}
+ .jumbotron h1, .jumbotron .lead {
+	 color: #fff;
+}
+/* Bustom button */
+ .btn-primary {
+	 background: #1096fc;
+	 border: 0;
+}
+ .btn-primary:hover {
+	 background: #0384e5;
+}
+/* Features */
+ .sec-features .row:nth-of-type(n + 2) {
+	 margin-top: 160px;
+}
+ .sec-features .row:last-of-type {
+	 margin-bottom: 160px;
+}
+ .sec-features .feature-icon {
+	 max-width: 150px;
+}
+/* Testimonials */
+ .sec-testimonials {
+	 padding-top: 128px;
+	 padding-bottom: 128px;
+}
+/* Carousel */
+ .carousel-indicators {
+	 bottom: -30px;
+}
+ .carousel-indicators li {
+	 background: rgba(33, 33, 33, 0.1);
+}
+ .carousel-indicators li:focus, .carousel-indicators li:hover {
+	 background: rgba(33, 33, 33, 0.5);
+}
+ .carousel-indicators .active {
+	 background: rgba(33, 33, 33, 0.75);
+}
+ .carousel-control-next, .carousel-control-prev {
+	 color: #212121;
+}
+ .carousel-control-next:focus, .carousel-control-prev:focus, .carousel-control-next:hover, .carousel-control-prev:hover {
+	 color: #111;
+}
+/* Footer */
+ .footer {
+	 padding-top: 24px;
+	 padding-bottom: 24px;
+	 background: #212121;
+}
+ .footer li:nth-of-type(n + 2) {
+	 margin-left: 8px;
+}
+ .footer a {
+	 font-size: 18px;
+	 color: rgba(255, 255, 255, 0.5);
+	 transition: color 0.235s ease-in-out;
+}
+ .footer a:focus, .footer a:hover {
+	 color: rgba(255, 255, 255, 0.25);
+}
+ 
+</style>
 <h1 align="center">Hi 👋, I'm DKIR ZINE EL ABIDINE (ELMOUBTAKIR)</h1>
 <h3 align="center" style="color:#16A065">A passionate Fullstack developer from Morocco</h3>
+<section>
+     <div class="jumbotron jumbotron-fluid mb-0">
+      <div class="container">
+        <div class="row justify-content-center text-center">
+          <div class="col-md-10 col-lg-6">
+            <h1 class="display-5">The Coolest Co-Working Space in Prague</h1>
 
+            <p class="lead">Where you choose to work has impact on your productivity and creativity. It also says a lot about your business. We are the right office space.</p>
+
+            <p class="lead">
+              <a class="btn btn-primary btn-lg" href="#sec-pricing" role="button">Reserve Your Spot</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zineelabidinedkirdev&label=Profile%20views&color=0e75b6&style=flat" alt="zineelabidinedkirdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zineelabidinedkirdev" alt="zineelabidinedkirdev" /></a> </p>
