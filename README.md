@@ -1,23 +1,6 @@
 <link rel="stylesheet" href="style.css"/>
 <h1 align="center">Hi 👋, I'm DKIR ZINE EL ABIDINE (ELMOUBTAKIR)</h1>
 <h3 align="center" style="color:#16A065">A passionate Fullstack developer from Morocco</h3>
-<section>
-     <div class="jumbotron jumbotron-fluid mb-0">
-      <div class="container">
-        <div class="row justify-content-center text-center">
-          <div class="col-md-10 col-lg-6">
-            <h1 class="display-5">The Coolest Co-Working Space in Prague</h1>
-
-            <p class="lead">Where you choose to work has impact on your productivity and creativity. It also says a lot about your business. We are the right office space.</p>
-
-            <p class="lead">
-              <a class="btn btn-primary btn-lg" href="#sec-pricing" role="button">Reserve Your Spot</a>
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-</section>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zineelabidinedkirdev&label=Profile%20views&color=0e75b6&style=flat" alt="zineelabidinedkirdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zineelabidinedkirdev" alt="zineelabidinedkirdev" /></a> </p>
