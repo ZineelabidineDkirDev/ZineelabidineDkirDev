@@ -1,4 +1,4 @@
-![](https://github.com/ZineelabidineDkirDev/ZineelabidineDkirDev/edit/main/blob.jpg)
+![](./blob.jpg)
 
 <h1 align="center">Hi 👋, I'm DKIR ZINE EL ABIDINE (ELMOUBTAKIR)</h1>
 <h3 align="center" style="color:#16A065">A passionate Fullstack developer from Morocco</h3>
