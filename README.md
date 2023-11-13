@@ -32,7 +32,7 @@
 <a href="https://fb.com/#zayndev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="#zayndev" height="30" width="40" /></a>
 <a href="https://instagram.com/@zayndev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@zayndev" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/zinosign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/zinosign" height="30" width="40" /></a>
-<a href="https://medium.com/@thfhtgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thfhtgh" height="30" width="40" /></a>
+<a href="https://medium.com/@thfhtgh" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-2020-new-logo-4DD1CA1BFF-seeklogo.com.png" alt="@thfhtgh" height="30" width="40" /></a>
 
 </p>
 
