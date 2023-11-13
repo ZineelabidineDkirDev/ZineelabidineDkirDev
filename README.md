@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **The .NET core Web API / MERN stack**
 
-- 👯 I’m looking to collaborate on **.NET Clean Architect en WEB API**
+- 👯 I’m looking to collaborate on **.NET software developer**
 
 - 👨‍💻 All of my projects are available at [https:\\www.elmoubtakir.com](https:\\www.elmoubtakir.com)
 
@@ -27,15 +27,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/zayndev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zayndev" height="30" width="40" /></a>
-<a href="https://dev.to/elmoubtakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="elmoubtakir" height="30" width="40" /></a>
 <a href="https://twitter.com/zayndev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zayndev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dkirzineelabidine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dkirzineelabidine/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/@zayndev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="@zayndev" height="30" width="40" /></a>
 <a href="https://fb.com/#zayndev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="#zayndev" height="30" width="40" /></a>
 <a href="https://instagram.com/@zayndev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@zayndev" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/zinosign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/zinosign" height="30" width="40" /></a>
 <a href="https://medium.com/@thfhtgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thfhtgh" height="30" width="40" /></a>
-<a href="/https://www.rss.net/zinosign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.rss.net/zinosign" height="30" width="40" /></a>
+
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
